@@ -231,3 +231,15 @@ sudo genisoimage -D -r -V "$OSE" -cache-inodes -J -l -b isolinux/isolinux.bin -c
 
 # Test the ISO using the following guide on VirtualBox - no USB creation required 
 # https://help.ubuntu.com/community/VirtualBox
+
+
+## Additional stuff to try
+# apt-get install pylint
+# add https://github.com/saravanan-k90/python-jedi-brackets and https://github.com/Grafluxe/pylinter extensions to BRackets
+# maybe https://github.com/josecols/python-tidy
+# https://github.com/Hirse/brackets-outline-list
+#https://bitbucket.org/begue/brackets-markdown-preview
+#https://github.com/alanhohn/markdown-toolbar
+#https://github.com/artoale/brackets-terminal
+#https://github.com/peterflynn/brackets-regex-editor
+# visual studio code https://code.visualstudio.com/docs/setup/linux
